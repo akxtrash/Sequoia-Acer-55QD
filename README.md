@@ -1,7 +1,8 @@
 # Sequoia-Acer-55QD
 macOS Sequoia on Acer A515-51-55QD with OpenCore.
 
-![Captura de Tela 2024-11-27 às 10 24 43](https://github.com/user-attachments/assets/37ac9e2d-fa12-40a3-b45d-875f34f11739)
+
+![Captura de Tela 2024-11-27 às 17 52 57](https://github.com/user-attachments/assets/da816e63-c23b-4af4-bcd4-e81529eb748b)
 
 Running on macOS Sequoia 15.1.1
 
